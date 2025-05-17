@@ -12,12 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text={TITLE}&fontSize=90&fontAlign=50&fontAlignY=30&desc={SUB_TITLE}&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
-</p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&center=true&vCenter=true&random=true&width=750&height=70&lines=Let's+change+the+world!" alt="Typing SVG" /></a>
+![Howell's GitHub stats](https://github-readme-stats.vercel.app/api?username=Howell-Shinji&count_private=true&show_icons=true&theme=transparent)
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text={TITLE}&fontSize=90&fontAlign=50&fontAlignY=70&desc={SUB_TITLE}&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
-</p>
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Howell-Shinji&custom_title=Howell's%20Contribution%20Graph&hide_border=true&theme=react-dark)
