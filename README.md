@@ -54,7 +54,7 @@
 | Project | Stars | Language | Description |
 |---------|-------|----------|-------------|
 | [**NeoCTF**](https://github.com/Howell-Shinji/NeoCTF) | ![GitHub stars](https://img.shields.io/github/stars/Howell-Shinji/NeoCTF?style=social) | HTML | 🏴‍☠️ CTF Learning Platform: One-Stop Arena & Challenge Management & AI |
-| [**PortSwigger_WP**](https://github.com/Howell-Shinji/PortSwigger_WP) | ![GitHub stars](https://img.shields.io/github/stars/Howell-Shinji/PortSwigger_WP?style=social) | - | 📚 Complete Walkthrough Notes for All PortSwigger Web Security Labs |
+| [**PortSwigger_WP**](https://github.com/Howell-Shinji/PortSwigger_WP) | ![GitHub stars](https://img.shields.io/github/stars/Howell-Shinji/PortSwigger_WP?style=social) | MarkDown | 📚 Complete Walkthrough Notes for All PortSwigger Web Security Labs |
 | [**SeqMalNet**](https://github.com/Howell-Shinji/Sequential-Malicious-Network-Traffic-Detection-Based-on-Wavelet-Kolmogorov-Arnold-Networks) | ![GitHub stars](https://img.shields.io/github/stars/Howell-Shinji/Wav-KAN_for_malicious_traffic?style=social) | Jupyter | 🧠 Malicious Traffic Sequence Detection via Wavelet + KAN |
 | [**Deep_Learning**](https://github.com/Howell-Shinji/Deep_Learning) | ![GitHub stars](https://img.shields.io/github/stars/Howell-Shinji/Deep_Learning?style=social) | Jupyter | 🧪 Deep Learning Hands-on Projects Collection |
 
@@ -67,7 +67,7 @@
 | Repository | Stars | Language | Mission |
 |------------|-------|----------|---------|
 | [SeqMalNet (Org)](https://github.com/Bear-Hackers/Sequential-Malicious-Network-Traffic-Detection-Based-on-Wavelet-Kolmogorov-Arnold-Networks) | ![GitHub stars](https://img.shields.io/github/stars/Bear-Hackers/Wav-KAN_for_malicious_traffic?style=social) | Jupyter | Organization-level malicious-traffic detection research based on WavKAN |
-| [CVE-Reproduce](https://github.com/Bear-Hackers/CVE-Vulnerability-Reproduction-Project) | ![GitHub stars](https://img.shields.io/github/stars/Bear-Hackers/CVE_Reproduction?style=social) | - | CVE vulnerability reproduction & verification |
+| [CVE-Reproduce](https://github.com/Bear-Hackers/CVE-Vulnerability-Reproduction-Project) | ![GitHub stars](https://img.shields.io/github/stars/Bear-Hackers/CVE_Reproduction?style=social) | MarkDown | CVE vulnerability reproduction & verification |
 
 <!-- ===========================================================================
    📊  Stats
