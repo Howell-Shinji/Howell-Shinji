@@ -54,7 +54,7 @@
    🐻  Bear-Hackers Org
    =========================================================================== -->
 ## 🐻  Bear-Hackers Industry
-> A crew of “bear” hackers laser-focused on **CVE reproduction** and **traffic hunting**.
+> A crew of “bear” hackers laser-focused on **Vul reproduction** and **DeepLearning**.
 
 | Repository | Stars | Language | Mission |
 |------------|-------|----------|---------|
