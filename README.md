@@ -67,7 +67,7 @@
 | Repository | Stars | Language | Mission |
 |------------|-------|----------|---------|
 | [SeqMalNet (Org)](https://github.com/Bear-Hackers/Sequential-Malicious-Network-Traffic-Detection-Based-on-Wavelet-Kolmogorov-Arnold-Networks) | ![GitHub stars](https://img.shields.io/github/stars/Bear-Hackers/Wav-KAN_for_malicious_traffic?style=social) | Jupyter | Organization-level malicious-traffic detection research based on WavKAN |
-| [CVE-Reproduce](https://github.com/Bear-Hackers/CVE-Vulnerability-Reproduction-Project) | ![GitHub stars](https://img.shields.io/github/stars/Bear-Hackers/CVE-Vulnerability-Reproduction-Project?style=social) | - | CVE vulnerability reproduction & verification |
+| [CVE-Reproduce](https://github.com/Bear-Hackers/CVE-Vulnerability-Reproduction-Project) | ![GitHub stars](https://img.shields.io/github/stars/Bear-Hackers/CVE_Reproduction?style=social) | - | CVE vulnerability reproduction & verification |
 
 <!-- ===========================================================================
    📊  Stats
