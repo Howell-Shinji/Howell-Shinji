@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
   <!-- 动态打字机 -->
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=435&lines=CTF+Player;AI%2FDeep+Learning+Enthusiast;Malware+Traffic+Hunter;Open-source+Advocate" alt="Typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=435&lines=Hacker;AI%2FDeep+Learning+Enthusiast;Malware+Traffic+Hunter;Open-source+Advocate" alt="Typing" />
   </p>
 
   <!-- 联系方式 -->
@@ -90,12 +90,6 @@ Here are some ideas to get you started:
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"> Linux</code>
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> Git</code>
 
-<!-- ===========================================================================
-   🎵  Spotify Playing (可选)
-   =========================================================================== -->
-<!-- 如使用 Spotify，可取消注释并替换用户名
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default&bar_color_cover=true)](https://open.spotify.com/user/YOUR_SPOTIFY_UID)
--->
 
 <!-- ===========================================================================
    🌠  Ending
