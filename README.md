@@ -93,6 +93,6 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0E7490&height=80&section=footer&text=Thanks%20for%20visiting!:)&fontSize=30&fontColor=FFFFFF" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0E7490&height=80&section=footer&text=Thanks%20for%20visiting :)&fontSize=30&fontColor=FFFFFF" width="100%"/>
 </div>
 
