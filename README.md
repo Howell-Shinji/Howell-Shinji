@@ -45,21 +45,21 @@
 
 | Project | Stars | Language | Description |
 |---------|-------|----------|-------------|
-| [**NeoCTF**](https://github.com/Howell-Shinji/NeoCTF) | ![GitHub stars](https://img.shields.io/github/stars/Howell-Shinji/NeoCTF?style=social) | HTML | 🏴‍☠️ CTF 学习平台，一站式靶场 + 赛题管理。 |
-| [**PortSwigger_WP**](https://github.com/Howell-Shinji/PortSwigger_WP) | ![GitHub stars](https://img.shields.io/github/stars/Howell-Shinji/PortSwigger_WP?style=social) | - | 📚 PortSwigger Web 安全实验全通关笔记。 |
-| [**SeqMalNet**](https://github.com/Howell-Shinji/Sequential-Malicious-Network-Traffic-Detection-Based-on-Wavelet-Kolmogorov-Arnold-Networks) | ![GitHub stars](https://img.shields.io/github/stars/Howell-Shinji/Sequential-Malicious-Network-Traffic-Detection-Based-on-Wavelet-Kolmogorov-Arnold-Networks?style=social) | Jupyter | 🧠 基于小波 + KAN 的恶意流量序列检测。 |
-| [**Deep_Learning**](https://github.com/Howell-Shinji/Deep_Learning) | ![GitHub stars](https://img.shields.io/github/stars/Howell-Shinji/Deep_Learning?style=social) | Jupyter | 🧪 深度学习练手项目合集。 |
+| [**NeoCTF**](https://github.com/Howell-Shinji/NeoCTF) | ![GitHub stars](https://img.shields.io/github/stars/Howell-Shinji/NeoCTF?style=social) | HTML | 🏴‍☠️ CTF Learning Platform: One-Stop Arena & Challenge Management & AI |
+| [**PortSwigger_WP**](https://github.com/Howell-Shinji/PortSwigger_WP) | ![GitHub stars](https://img.shields.io/github/stars/Howell-Shinji/PortSwigger_WP?style=social) | - | 📚 Complete Walkthrough Notes for All PortSwigger Web Security Labs |
+| [**SeqMalNet**](https://github.com/Howell-Shinji/Sequential-Malicious-Network-Traffic-Detection-Based-on-Wavelet-Kolmogorov-Arnold-Networks) | ![GitHub stars](https://img.shields.io/github/stars/Howell-Shinji/Sequential-Malicious-Network-Traffic-Detection-Based-on-Wavelet-Kolmogorov-Arnold-Networks?style=social) | Jupyter | 🧠 Malicious Traffic Sequence Detection via Wavelet + KAN |
+| [**Deep_Learning**](https://github.com/Howell-Shinji/Deep_Learning) | ![GitHub stars](https://img.shields.io/github/stars/Howell-Shinji/Deep_Learning?style=social) | Jupyter | 🧪 Deep Learning Hands-on Projects Collection |
 
 <!-- ===========================================================================
    🐻  Bear-Hackers Org
    =========================================================================== -->
 ## 🐻  Bear-Hackers Industry
-> A crew of “bear” hackers laser-focused on **Vul reproduction** and **DeepLearning**.
+> A crew of “bear” hackers laser-focused on **Vulnerability** and **Deep Learning**.
 
 | Repository | Stars | Language | Mission |
 |------------|-------|----------|---------|
-| [SeqMalNet (Org)](https://github.com/Bear-Hackers/Sequential-Malicious-Network-Traffic-Detection-Based-on-Wavelet-Kolmogorov-Arnold-Networks) | ![GitHub stars](https://img.shields.io/github/stars/Bear-Hackers/Sequential-Malicious-Network-Traffic-Detection-Based-on-Wavelet-Kolmogorov-Arnold-Networks?style=social) | Jupyter | 组织级流量检测研究 |
-| [CVE-Reproduce](https://github.com/Bear-Hackers/CVE-Vulnerability-Reproduction-Project) | ![GitHub stars](https://img.shields.io/github/stars/Bear-Hackers/CVE-Vulnerability-Reproduction-Project?style=social) | - | CVE 漏洞复现仓库 |
+| [SeqMalNet (Org)](https://github.com/Bear-Hackers/Sequential-Malicious-Network-Traffic-Detection-Based-on-Wavelet-Kolmogorov-Arnold-Networks) | ![GitHub stars](https://img.shields.io/github/stars/Bear-Hackers/Sequential-Malicious-Network-Traffic-Detection-Based-on-Wavelet-Kolmogorov-Arnold-Networks?style=social) | Jupyter | Organization-level malicious-traffic detection research based on WavKAN |
+| [CVE-Reproduce](https://github.com/Bear-Hackers/CVE-Vulnerability-Reproduction-Project) | ![GitHub stars](https://img.shields.io/github/stars/Bear-Hackers/CVE-Vulnerability-Reproduction-Project?style=social) | - | CVE vulnerability reproduction & verification |
 
 <!-- ===========================================================================
    📊  Stats
