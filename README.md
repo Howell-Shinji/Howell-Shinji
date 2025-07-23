@@ -38,6 +38,15 @@
   </p>
 </div>
 
+## 👾  About Me
+
+- 🔭 **Life Hacker** – automate daily routines, hack productivity, optimize everything.  
+- 🌐 **Network Hacker** – red-team mindset, traffic hunting, CVE repro & PoC crafting.  
+- 🧠 **Deep-Learning Researcher** – wavelets, KANs, GNNs, and whatever makes GPUs scream.  
+- 🤖 **AI Digger** – from toy models to production-grade pipelines, PyTorch-first.  
+- 💸 **Finance Rookie** – learning markets while the algos learn me.
+
+> “If it has bytes or bucks, I’ll break it or bend it.”
 <!-- ===========================================================================
    🚀  Featured Projects
    =========================================================================== -->
