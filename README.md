@@ -13,14 +13,28 @@
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=435&lines=Hacker;AI%2FDeep+Learning+Enthusiast;Malware+Traffic+Hunter;Open-source+Advocate" alt="Typing" />
   </p>
-
   <!-- 联系方式 -->
-  <p>
-    <a href="mailto:howell@example.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-    <a href="https://twitter.com/Howell_Shinji"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-    <a href="https://t.me/Howell_Shinji"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram&logoColor=white"/></a>
-  </p>
-
+<p align="center">
+  <a href="mailto:howell@example.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
+  </a>
+  <a href="mailto:howell@icloud.com">
+    <img src="https://img.shields.io/badge/iCloud-3693F3?style=flat&logo=icloud&logoColor=white" alt="iCloud"/>
+  </a>
+  <a href="https://twitter.com/Howell_Shinji">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://t.me/Howell_Shinji">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <br/>
+  <a href="http://wpa.qq.com/msgrd?v=3&uin=12345678&site=qq&menu=yes">
+    <img src="https://img.shields.io/badge/QQ-12B7F5?style=flat&logo=tencent-qq&logoColor=white" alt="QQ"/>
+  </a>
+  <a href="weixin://dl/chat?howell">
+    <img src="https://img.shields.io/badge/WeChat-07C160?style=flat&logo=wechat&logoColor=white" alt="WeChat"/>
+  </a>
+</p>
 </div>
 
 <!-- ===========================================================================
