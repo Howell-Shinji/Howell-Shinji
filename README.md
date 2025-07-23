@@ -54,7 +54,7 @@
    🐻  Bear-Hackers Org
    =========================================================================== -->
 ## 🐻  Bear-Hackers Industry
-> 我们是一群专注漏洞复现与流量狩猎的「熊」孩子。
+> A crew of “bear” hackers laser-focused on **CVE reproduction** and **traffic hunting**.
 
 | Repository | Stars | Language | Mission |
 |------------|-------|----------|---------|
