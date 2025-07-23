@@ -83,6 +83,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Howell-Shinji&custom_title=Howell's%20Contribution%20Graph&hide_border=true&theme=react-dark" width="100%" alt="activity-graph"/>
 </div>
 
+## 🤝 Contributing
+Contributions, issues, and feature requests are welcome!  
+Feel free to check [issues page](https://github.com/Howell-Shinji/Howell-Shinji/issues) or submit a pull request.
 <!-- ===========================================================================
    🛠️  Skills & Tools
    =========================================================================== -->
