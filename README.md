@@ -73,9 +73,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=Howell-Shinji&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats"/>
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Howell-Shinji&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="langs"/>
-
-  <!-- 3D Contribution Graph -->
-  <img src="https://git-hub-3d-contributions.vercel.app/api?username=Howell-Shinji" width="100%" alt="3D-contrib"/>
+![Howell's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Howell-Shinji&custom_title=Howell's%20Contribution%20Graph&hide_border=true&theme=react-dark)
 
 </div>
 
