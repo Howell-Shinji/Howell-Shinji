@@ -96,7 +96,3 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0E7490&height=80&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=FFFFFF" width="100%"/>
 </div>
 
-
-![Howell's GitHub stats](https://github-readme-stats.vercel.app/api?username=Howell-Shinji&count_private=true&show_icons=true&theme=transparent)
-
-![Howell's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Howell-Shinji&custom_title=Howell's%20Contribution%20Graph&hide_border=true&theme=react-dark)
